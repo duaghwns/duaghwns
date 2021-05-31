@@ -20,9 +20,9 @@
 
  
 
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=saseungwon&show_icons=true&locale=en" alt="saseungwon" /></p>
+ <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=duaghwns&show_icons=true&locale=en" alt="saseungwon" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saseungwon&show_icons=true&locale=en&layout=compact" alt="saseungwon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duaghwns&show_icons=true&locale=en&layout=compact" alt="saseungwon" /></p>
 
 	
 
