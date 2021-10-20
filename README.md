@@ -2,7 +2,7 @@
 
  
 
-- 🌱 I’m currently learning **Java, SQL, Javascript, Spring Framework, Python, Deep learning**
+- 🌱 I’m currently learning **Java, SQL, Javascript, Spring Framework, JPA , Python**
 
  
 
