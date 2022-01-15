@@ -2,9 +2,16 @@
 
  
 
-- 🌱 I’m currently learning **Java, SQL, Javascript, Spring Framework, JPA , Python**
+- 🌱 I’m currently learning 
 
- 
+- ** DB **
+- MSSQL, Oracle Sql, MySql, mariaDB, MongoDB
+
+- ** Language **
+- Java, C#, JavaScript, Python
+
+- ** FrameWork **
+-  Spring Framework, JPA, React, Vue, Redux
 
 - 📫 How to reach me **hj2758@gmail.com**
 
