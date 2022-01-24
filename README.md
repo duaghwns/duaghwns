@@ -1,24 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hojoon Yeom</h1>
 
- 
-
-- 🌱 I’m currently learning 
-
-- ** DB **
-- MSSQL, Oracle Sql, MySql, mariaDB, MongoDB
-
-- ** Language **
-- Java, C#, JavaScript, Python
-
-- ** FrameWork **
--  Spring Framework, JPA, React, Vue, Redux
-
-- 📫 How to reach me **hj2758@gmail.com**
-
- 
-
- 
-
 <div align="center">
 
 <h3 align="center">Languages and Tools</h3>
