@@ -1,17 +1,53 @@
 <h1 align="center">Hojoon Yeom</h1>
 
+
+
 <div align="center">
+<p>
+    <h3 align="center">Contect</h3>
+    <a href="instagram.com/duaghwns" target="_blank">
+        <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
+    </a>
+    <a href="blog.naver.com/5-5-5-5" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-6DB33F?style=for-the/badge&logo=Counter-Strike&logoColor=FFFFFF"/>
+    </a>
+</p>
+    <h2 align="center">Languages and Tools</h2>
+<p>
+    <h3>Front</h3>
+<div>
 
-<h3 align="center">Languages and Tools</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the/badge&logo=HTML5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the/badge&logo=CSS3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the/badge&logo=JavaScript&logoColor=FFFFFF"/>
+<!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the/badge&logo=Vue.js&logoColor=FFFFFF"/> -->
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the/badge&logo=jQuery&logoColor=FFFFFF"/>
+</div>
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3>Back</h3>
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the/badge&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C Sharp-111324?style=for-the/badge&logo=C Sharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the/badge&logo=Hibernate&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the/badge&logo=Spring&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the/badge&logo=SpringBoot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ThymeLeaf-007396?style=for-the/badge&logo=ThymeLeaf&logoColor=FFFFFF"/>
+<!-- <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the/badge&logo=JPA&logoColor=FFFFFF"/> -->
+</div>
 
- 
+<h3>DB</h3>
+<div>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the/badge&logo=Oracle&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the/badge&logo=MariaDB&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the/badge&logo=MySQL&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MSSQL-cc2927?style=for-the/badge&logo=Microsoft SQL Server&logoColor=FFFFFF"/>
+</div>
 
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=duaghwns&show_icons=true&locale=en" alt="saseungwon" /></p>
+<hr>
+</p>
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duaghwns&show_icons=true&locale=en&layout=compact" alt="saseungwon" /></p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duaghwns&show_icons=true&theme=codeSTACKr)
 
-
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duaghwns&theme=github_dark&layout=compact&hide_border=true&hide_title=true)
 </div>
