@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the/badge&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C Sharp-111324?style=for-the/badge&logo=C Sharp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the/badge&logo=Hibernate&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the/badge&logo=Spring&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the/badge&logo=Spring&logoColor=FFFFFF"/><br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the/badge&logo=SpringBoot&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/ThymeLeaf-007396?style=for-the/badge&logo=ThymeLeaf&logoColor=FFFFFF"/>
 <!-- <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the/badge&logo=JPA&logoColor=FFFFFF"/> -->
