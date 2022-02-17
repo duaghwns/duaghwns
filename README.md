@@ -1,11 +1,11 @@
-<h1 align="center">Hojoon Yeom</h1>
+<h1 align="center">duaghwns</h1>
 
 
 
 <div align="center">
 <p>
     <h3 align="center">Contect</h3>
-    <a href="instagram.com/duaghwns" target="_blank">
+    <a href="https://www.instagram.com/duaghwns" target="_blank">
         <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
     </a>
     <a href="blog.naver.com/5-5-5-5" target="_blank">
