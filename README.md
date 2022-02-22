@@ -2,9 +2,9 @@
 
 
 
-<div align="center">
+<div>
 <p>
-    <h3 align="center">Contect</h3>
+    <h3>Contect</h3>
     <a href="https://www.instagram.com/duaghwns/" target="_blank">
         <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
     </a>
@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Blog-6DB33F?style=for-the/badge&logo=Counter-Strike&logoColor=FFFFFF"/>
     </a>
 </p>
-    <h2 align="center">Languages and Tools</h2>
+    <h2>Languages and Tools</h2>
 <p>
     <h3>Front</h3>
 <div>
