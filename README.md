@@ -13,7 +13,6 @@
     </a>
 </p>
     <h2>Languages and Tools</h2>
-<p>
     <h3>Front</h3>
 <div>
 
@@ -42,8 +41,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the/badge&logo=MySQL&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MSSQL-cc2927?style=for-the/badge&logo=Microsoft SQL Server&logoColor=FFFFFF"/>
 </div>
-</p>
-
 <hr>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duaghwns&show_icons=true&theme=codeSTACKr)
