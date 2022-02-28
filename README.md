@@ -1,4 +1,4 @@
-<h1 align="center">duaghwns</h1>
+<h1>duaghwns</h1>
 
 
 
