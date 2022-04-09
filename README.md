@@ -1,7 +1,3 @@
-<h1>duaghwns</h1>
-
-
-
 <div>
 <p>
     <h3>about me</h3>
