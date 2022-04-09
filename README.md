@@ -12,10 +12,8 @@
         <img src="https://img.shields.io/badge/Blog-6DB33F?style=for-the/badge&logo=Counter-Strike&logoColor=FFFFFF"/>
     </a>
 </p>
-    <h2>Languages and Tools</h2>
-    <h3>Front</h3>
+<h3>Front</h3>
 <div>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the/badge&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the/badge&logo=CSS3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the/badge&logo=JavaScript&logoColor=FFFFFF"/>
