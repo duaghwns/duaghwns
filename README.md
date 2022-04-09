@@ -26,13 +26,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the/badge&logo=MySQL&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MSSQL-cc2927?style=for-the/badge&logo=Microsoft SQL Server&logoColor=FFFFFF"/>
 </div>
-<hr>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duaghwns&show_icons=true&theme=codeSTACKr)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duaghwns&theme=github_dark&layout=compact&hide_border=true&hide_title=true)
-</div>
-<p>
+ <p>
     <a href="https://www.instagram.com/duaghwns/" target="_blank">
         <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
     </a>
@@ -40,3 +34,10 @@
         <img src="https://img.shields.io/badge/Blog-6DB33F?style=for-the/badge&logo=Counter-Strike&logoColor=FFFFFF"/>
     </a>
 </p>
+<hr>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duaghwns&show_icons=true&theme=codeSTACKr)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duaghwns&theme=github_dark&layout=compact&hide_border=true&hide_title=true)
+</div>
+
