@@ -1,12 +1,4 @@
 <div>
-<p>
-    <a href="https://www.instagram.com/duaghwns/" target="_blank">
-        <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://blog.naver.com/5-5-5-5" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-6DB33F?style=for-the/badge&logo=Counter-Strike&logoColor=FFFFFF"/>
-    </a>
-</p>
 <h3>Front</h3>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the/badge&logo=HTML5&logoColor=FFFFFF"/>
@@ -40,3 +32,11 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duaghwns&theme=github_dark&layout=compact&hide_border=true&hide_title=true)
 </div>
+<p>
+    <a href="https://www.instagram.com/duaghwns/" target="_blank">
+        <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
+    </a>
+    <a href="https://blog.naver.com/5-5-5-5" target="_blank">
+        <img src="https://img.shields.io/badge/Blog-6DB33F?style=for-the/badge&logo=Counter-Strike&logoColor=FFFFFF"/>
+    </a>
+</p>
