@@ -1,6 +1,5 @@
 <div>
 <p>
-    <h3>about me</h3>
     <a href="https://www.instagram.com/duaghwns/" target="_blank">
         <img src="https://img.shields.io/badge/duaghwns-pink?style=for-the/badge&logo=instagram&logoColor=FFFFFF"/>
     </a>
